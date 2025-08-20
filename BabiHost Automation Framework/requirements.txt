@@ -1,0 +1,5 @@
+selenium==4.18.1        # Browser automation
+pytest==8.2.1           # Test runner
+openpyxl==3.1.2         # Excel file support for data-driven tests
+pytest-xdist==3.6.1     # Parallel test execution
+allure-pytest==2.13.2   # Allure reporting integration
