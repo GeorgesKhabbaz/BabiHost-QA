@@ -13,7 +13,7 @@ BabiHost is a premium hospitality and accommodation booking platform connecting 
 
 ## Current Contents
 
-- `testplan.md`: Detailed test plan outlining scope, objectives, approach, and resources.
+- `test_plan.md`: Detailed test plan outlining scope, objectives, approach, and resources.
 - `test_cases.md`: Documented test cases covering various features and functionalities.  
 - `README.md`: Project overview and documentation.
 
