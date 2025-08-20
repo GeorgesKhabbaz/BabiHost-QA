@@ -13,6 +13,7 @@ BabiHost is a premium hospitality and accommodation booking platform connecting 
 
 ## Current Contents
 
+- `BabiHost Automation Framework/`: Folder containing automation scripts, test utilities, and framework structure.
 - `test_plan.md`: Detailed test plan outlining scope, objectives, approach, and resources.
 - `test_cases.md`: Documented test cases covering various features and functionalities.  
 - `README.md`: Project overview and documentation.
@@ -22,7 +23,6 @@ BabiHost is a premium hospitality and accommodation booking platform connecting 
 ## Upcoming
 
 - Bug reports and tracking  
-- Automation scripts
 
 ---
 
