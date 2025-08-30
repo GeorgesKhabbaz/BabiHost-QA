@@ -1,7 +1,7 @@
 # BabiHost Project
 
 Welcome to the BabiHost QA Repository!  
-This repository serves as the central hub for all quality assurance activities related to the BabiHost project. Here, you’ll find comprehensive test cases, documentation, and other QA assets designed to ensure the highest standards of software quality and reliability.
+This repository serves as the central hub for all quality assurance activities related to the BabiHost project. Here, you’ll find comprehensive test cases, documentation, bug reports, and other QA assets designed to ensure the highest standards of software quality and reliability.
 
 ---
 
@@ -15,21 +15,14 @@ BabiHost is a premium hospitality and accommodation booking platform connecting 
 
 - `BabiHost Automation Framework/`: Folder containing automation scripts, test utilities, and framework structure.
 - `test_plan.md`: Detailed test plan outlining scope, objectives, approach, and resources.
-- `test_cases.md`: Documented test cases covering various features and functionalities.  
+- `test_cases.md`: Documented test cases covering various features and functionalities.
+- `bug_report.md`: Template for creating standardized bug reports in GitHub Issues.
 - `README.md`: Project overview and documentation.
-
----
-
-## Upcoming
-
-- Bug reports and tracking  
 
 ---
 
 ## How to Contribute
 
-Feel free to fork this repository and submit pull requests to improve or add test cases and QA documentation.
+Feel free to fork this repository and submit pull requests to improve or add test cases, bug reports, and QA documentation.
 
 ---
-
-*This README will be updated as the project progresses.*
