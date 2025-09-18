@@ -1,0 +1,75 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest cache
+.pytest_cache/
+*.pytest_cache/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ======================
+# Test Artifacts
+# ======================
+logs/
+reports/
+screenshots/
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ======================
+# IDE / Editors
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Env files
+# ======================
+.env
+
+# ======================
+# Selenium drivers
+# ======================
+chromedriver.log
+geckodriver.log
+
+# ======================
+# Project bytecode
+# ======================
+src/__pycache__/
+src/core/__pycache__/
